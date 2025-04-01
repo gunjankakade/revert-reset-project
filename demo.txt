@@ -1,8 +1,13 @@
 first commit
 second commit unneccesary coomit
 third commit
+<<<<<<< HEAD
 fourth commit 1
 fifth commit 2
+=======
+fourth commit
+fifth commit
+>>>>>>> parent of d45361a (commit)
 sixth commit
 seven commit
 
